@@ -31,7 +31,7 @@
                 aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto my-2 my-lg-0">
-                    <li class="nav-item"><a class="nav-link" href="./#about">Über mich</a></li>
+                    <li class="nav-item"><a class="nav-link" href="./about.php">Über mich</a></li>
                     <li class="nav-item"><a class="nav-link" href="./#services">Services</a></li>
                     <li class="nav-item"><a class="nav-link" href="./#portfolio">Login</a></li>
                     <li class="nav-item"><a class="nav-link" href="./kontakt.php">Kontakt</a></li>
