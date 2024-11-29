@@ -1,4 +1,4 @@
-    <?php require_once('./assets/layout/header.php'); ?>
+    <?php require_once('./layout/header.php'); ?>
         
         <!-- Masthead-->
         <header class="masthead">
@@ -135,7 +135,7 @@
         </section>
         <!-- Contact-->
         
-        <?php require_once('./assets/layout/footer.php'); ?>
+        <?php require_once('./layout/footer.php'); ?>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- SimpleLightbox plugin JS-->
