@@ -1,4 +1,4 @@
-<?php require_once('./assets/layout/header.php'); ?>
+<?php require_once('./layout/header.php'); ?>
 
         <section class="page-section" id="kontakt">
             <div class="container px-4 px-lg-5">
@@ -75,4 +75,4 @@
             </div>
         </section>
 
-<?php require_once('./assets/layout/footer.php'); ?>
+<?php require_once('./layout/footer.php'); ?>
